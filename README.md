@@ -1,8 +1,5 @@
 # Airline Customer Support Bot
 
-[![GitHub issues](https://img.shields.io/github/issues/serkan-ertas/llm-rag-chatbot)](https://github.com/serkan-ertas/llm-rag-chatbot/issues)
-[![GitHub stars](https://img.shields.io/github/stars/serkan-ertas/llm-rag-chatbot)](https://github.com/serkan-ertas/llm-rag-chatbot/stargazers)
-[![GitHub license](https://img.shields.io/github/license/serkan-ertas/llm-rag-chatbot)](https://github.com/serkan-ertas/llm-rag-chatbot/blob/main/LICENSE)
 
 ## Overview
 This repository contains the code for an Airline Customer Support Bot designed to assist with customer queries efficiently and effectively.
