@@ -34,6 +34,7 @@ Modify the \`.env\` file with your specific information.
 
 Create the \`messages\` table using **create_messages_table.sql**:
 
+Make sure you have db and pdf directories in the same directory.
 
 Execute the \`app.py\` file to start the application:
 ```
